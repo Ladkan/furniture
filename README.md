@@ -1,5 +1,7 @@
-# furniture
+# Furniture
 
+Webová stránka fiktivní nábytkářské firmay s administrací. 
+[Inspirace pro design](https://untree.co/free-templates/furni-furniture-ecommerce-website-template-free-download/)
 ## Start Svelte
 ```bash
 npm run dev -- --open
