@@ -1,11 +1,13 @@
 # furniture
 
-Start Svelte
+##Start Svelte
+```bash
 npm run dev -- --open
-
-Start Pocketbase
+```
+##Start Pocketbase
+```bash
 pocketbase serve
-
+```
 #Admin
 localhost:5173/admin
 
