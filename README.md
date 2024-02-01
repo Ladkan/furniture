@@ -1,21 +1,24 @@
 # furniture
 
-##Start Svelte
+## Start Svelte
 ```bash
 npm run dev -- --open
 ```
-##Start Pocketbase
+## Start Pocketbase
 ```bash
 pocketbase serve
 ```
-#Admin
+## Admin
+```bash
 localhost:5173/admin
 
 username: ladkna
 passwd: PzRuA2EVatsS3vG
-
-#Pocketbase
+```
+## Pocketbase
+```bash
 http://127.0.0.1:8090/_/
 
 username: admin@ladkan.eu
 passwd: 1234567890
+```
